@@ -54,7 +54,7 @@ class menu extends StatelessWidget {
           ),
           ListTile(
             leading: const Icon(Icons.compare_arrows),
-            title: const Text('History'),
+            title: const Text('History Page'),
             onTap: (){
               Navigator.push(
                 context,
